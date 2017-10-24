@@ -1,4 +1,8 @@
-# Dialogflow: Webhook Template using Node.js and Cloud Functions for Firebase
+# Google Assistant Twitch
+
+A Google Action to ask if a twitch status is online. This is a backup of the cloud function used for fulfillment in Dialogflow
+
+Experimental WIP!
 
 ## Setup Instructions
 
